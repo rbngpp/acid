@@ -6,9 +6,9 @@ More information on Typora: [OFFICIAL WEBSITE][2]
 
 ### Theme preview 
 
-![ACID PREVIEW](https://ibb.co/Xxd41RX)
+![ACID PREVIEW](https://i.ibb.co/Df6bh24/acid-light1.png) 
 
-![ACID PREVIEW 2](https://ibb.co/448ZWC2)
+![ACID PREVIEW 2](https://i.ibb.co/c26cJRw/acid-light2.png) 
 
 
 
