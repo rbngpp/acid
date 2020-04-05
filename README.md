@@ -1,4 +1,8 @@
-# ACID THEME
+# ACID LIGHT THEME
+
+
+
+![CSS](https://img.shields.io/badge/CSS-inside-brightgreen) ![TYPORA](https://img.shields.io/badge/TYPORA-theme-lightgrey) 
 
 Theme based on GitLab theme made by Typora's team.
 
