@@ -27,7 +27,5 @@ Acid Rain Icon made with love by [SMASHICONS][1].
 
 
 
-> STANDING ON THE SHOULDERS OF THE GIANTS.
-
 [1]:https://www.flaticon.com/authors/smashicons
 [2]:https://typora.io
